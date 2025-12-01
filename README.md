@@ -8,7 +8,7 @@ Il a été réalisé dans le cadre de l’UE *Data Vizualisation*.
 - Échelle linéaire sur l’axe Y (`scaleLinear`)
 - Barres SVG générées dynamiquement
 - Tooltip interactif affichant la date et la valeur du GDP
-- Conformité totale avec les *User Stories* freeCodeCamp
+- Conformité totale avec les *User Stories* freeCodeCamp (pour passer les tests)
 
 ## Données
 Les données du PIB proviennent du dataset officiel freeCodeCamp :  [GDP-data.json](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/GDP-data.json)
