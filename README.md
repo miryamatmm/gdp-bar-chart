@@ -1,4 +1,4 @@
-# US GDP Bar Chart – D3.js 🎀
+# 🎀 US GDP Bar Chart – D3.js
 
 Ce projet visualise l'évolution du PIB des États-Unis sous forme de bar chart interactif en utilisant la librairie **D3.js**.  
 Il a été réalisé dans le cadre de l’UE *Data Vizualisation*.
